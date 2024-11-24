@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Holla I'm Ahmed, and welcome to my domaine : Chaos </h1>
+
+<h3 align="center">Computational physicist & researcher 🚀 Always solving equations, sometimes breaking code! 🌌 Exploring the intersection of physics and tech, and sharing the chaos along the way 🌍</h3>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-Balk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Balk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-balk&theme=tokyonight&hide_border=false)<br/>
 
 <!--
 **Ahmed-Balk/Ahmed-Balk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
