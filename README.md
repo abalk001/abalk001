@@ -23,7 +23,7 @@ I thrive in the intersection of disciplines, where chaos breeds creativity. If y
 ## Fun Features
 - **Chaos Enthusiast**: My repos are a mix of everything—expect the unexpected!
 - **Infinite Curiosity**: Always hungry for new challenges and ideas.
-- **Easter Eggs**: You might find some quirky surprises in my code. 🐇
+- **Easter Eggs**: You might find some quirky surprises in my code. 
 
 ---
 
