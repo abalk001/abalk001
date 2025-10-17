@@ -15,8 +15,8 @@ I thrive in the intersection of disciplines, where chaos breeds creativity. If y
 ---
 
 ## GitHub Stats
-![abalk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abalk&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abalk&layout=compact&theme=radical)
+![abalk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abalk001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abalk001&layout=compact&theme=radical)
 
 ---
 
