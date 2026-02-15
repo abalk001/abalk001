@@ -8,7 +8,7 @@ Hi there! I'm a computational physicist, software engineer, and mathematician-in
 - **Computational Physics**: Simulating the universe, one equation at a time.
 - **Software Engineering**: Building tools to make life (and science) easier.
 - **Mathematics**: Finding beauty in numbers and patterns.
-- **Biology Projects**: Bridging the gap between life and computation.
+- **Side quest Projects**: Bridging the gap between life and computation.
 
 I thrive in the intersection of disciplines, where chaos breeds creativity. If you're into solving complex problems, pushing boundaries, or just geeking out over cool ideas, you're in the right place!
 
